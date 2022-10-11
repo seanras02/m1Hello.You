@@ -56,7 +56,7 @@ if choice == "B":
         print("Je komt erachter dat je toch heel veilig bent, dus je besluit om uiteindelijk werk te zoeken")
         input()
         print("Wat kies je?")
-        print("A. Je ziet een advertentie om voor de Engelsen te vechten in de oorlog")
+        print("A. Je ziet een advertentie om te vechten in de oorlog")
         print("B Je gaat in een fabriek te werken, maar je word niet veel betaald...")
         choice = input()
 
@@ -81,6 +81,9 @@ if choice == "B":
         if choice == "A":
             print("Je gaat voor de landmacht vechten, maar je verstopt jezelf heel vaak...")
             print("Je doet het voor zo lang dat je de oorlog hebt overleefd!!")
+
+        if choice == "B":
+            print("Je gaat voor de luchtmacht maar je word neergeschoten en gaat dood...")
 
 
         
