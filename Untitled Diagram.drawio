@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T07:12:21.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZvpmTH054l72_dqTlum7" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T09:15:14.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NMUTtHg4dTx5prWu757A" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2105" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-28" value="Helpen mee vechten in oorlog" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-140" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d0gGgPKcJ9tYoh6Nahck-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-31" edge="1">
+        <mxCell id="d0gGgPKcJ9tYoh6Nahck-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-31" edge="1" target="d0gGgPKcJ9tYoh6Nahck-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="260" as="targetPoint" />
           </mxGeometry>
@@ -57,13 +57,13 @@
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-31" value="Onderduiken" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="110" y="160" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d0gGgPKcJ9tYoh6Nahck-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-36" edge="1">
+        <mxCell id="d0gGgPKcJ9tYoh6Nahck-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-36" edge="1" target="d0gGgPKcJ9tYoh6Nahck-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="257.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-36" value="Anderen helpen met onderduiken" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="202.5" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SnUCh2Sh2h-Uul6r9YAu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-43" target="SnUCh2Sh2h-Uul6r9YAu-5">
           <mxGeometry relative="1" as="geometry" />
@@ -80,9 +80,9 @@
           <mxGeometry x="-140" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-48" value="Je onderduikt voor 5 jaar en overleeft" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=#33FF33;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry y="180" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d0gGgPKcJ9tYoh6Nahck-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-57" edge="1">
+        <mxCell id="d0gGgPKcJ9tYoh6Nahck-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-57" edge="1" target="d0gGgPKcJ9tYoh6Nahck-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142.5" y="370" as="targetPoint" />
           </mxGeometry>
@@ -97,13 +97,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-57" value="Sommige mensen worden opgepakt en je voelt je schuldig" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="202.5" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-60" value="je gaat ze terug brengen met een groep van 15 maar het gaat mis, 5 mensen gaan dood en je gaat terug&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#22FF00;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="370" width="130" height="70" as="geometry" />
+          <mxGeometry x="140" y="390" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-63" value="je gaat niet, je voelt je schuldig en je gaat daarna zelfmoord plegen" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF150D;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SnUCh2Sh2h-Uul6r9YAu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SnUCh2Sh2h-Uul6r9YAu-5">
           <mxGeometry relative="1" as="geometry">
@@ -122,13 +122,21 @@
           <mxGeometry x="-170" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SnUCh2Sh2h-Uul6r9YAu-15" value="Je gaat het balanseren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="310" width="80" height="30" as="geometry" />
+          <mxGeometry x="-80" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SnUCh2Sh2h-Uul6r9YAu-18" value="Je overleeft maar je voelt je heel schuldig" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF150D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-240" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SnUCh2Sh2h-Uul6r9YAu-21" value="Je deelt maar overlijd en je word herdacht&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#22FF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-285" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SnUCh2Sh2h-Uul6r9YAu-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SnUCh2Sh2h-Uul6r9YAu-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnUCh2Sh2h-Uul6r9YAu-25" value="Je word vergast&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF150D;fillColor=#FFFFFF;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
