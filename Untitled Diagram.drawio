@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:54:20.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iIibEspXTZsz7M-BBaHE" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T11:11:18.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RhXucowaJYz1oYhcPG4O" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2105" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,17 +37,17 @@
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-10" value="Oorlog in het land" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-12" target="2cw835uVxtxsyLFWTMSn-2">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-12" target="2cw835uVxtxsyLFWTMSn-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-12" target="2cw835uVxtxsyLFWTMSn-5">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-12" target="2cw835uVxtxsyLFWTMSn-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="461" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-12" target="2cw835uVxtxsyLFWTMSn-8">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-12" target="2cw835uVxtxsyLFWTMSn-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530.5" y="210" as="targetPoint" />
           </mxGeometry>
@@ -55,8 +55,11 @@
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-12" value="Naar Frankrijk&lt;br&gt;en je ziet twee mensen praten over de oorlog" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="115" width="115" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.362;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-20" target="fp_3P25nIhXUevTeCshL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d0gGgPKcJ9tYoh6Nahck-20" value="Naar Duitsland en je moet vechten voor nazi&#39;s" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="700" y="110" width="110" height="50" as="geometry" />
+          <mxGeometry x="820" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SnUCh2Sh2h-Uul6r9YAu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d0gGgPKcJ9tYoh6Nahck-28" target="d0gGgPKcJ9tYoh6Nahck-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -153,76 +156,127 @@
         <mxCell id="SnUCh2Sh2h-Uul6r9YAu-25" value="Je word vergast&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF150D;fillColor=#FFFFFF;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-100" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.511;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-2" target="2cw835uVxtxsyLFWTMSn-11">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.511;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-2" target="2cw835uVxtxsyLFWTMSn-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="371.8000000000002" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-2" target="2cw835uVxtxsyLFWTMSn-14">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-2" target="2cw835uVxtxsyLFWTMSn-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="409.8000000000002" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-2" value="praten over dat je door eendjes werd aangevallen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-2" value="praten over dat je door eendjes werd aangevallen" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="210" width="97.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-5" target="2cw835uVxtxsyLFWTMSn-16">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-5" target="2cw835uVxtxsyLFWTMSn-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-5" value="Je verteld over je leven voor de oorlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-5" value="Je verteld over je leven voor de oorlog" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-8" value="je zegt niks todat je er weer bent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="230" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-11" target="2cw835uVxtxsyLFWTMSn-19">
+        <mxCell id="fp_3P25nIhXUevTeCshL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-8" target="fp_3P25nIhXUevTeCshL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-11" value="EHBO&#39;er in de oorlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-8" value="je zegt niks todat je er weer bent" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2cw835uVxtxsyLFWTMSn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-11" target="2cw835uVxtxsyLFWTMSn-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cw835uVxtxsyLFWTMSn-11" value="EHBO&#39;er in de oorlog" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-14" target="2cw835uVxtxsyLFWTMSn-17">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-14" target="2cw835uVxtxsyLFWTMSn-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-14" value="je werkt in fabriek en amper geld" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-14" value="je werkt in fabriek en amper geld" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="280" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.436;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-16" target="2cw835uVxtxsyLFWTMSn-26">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.436;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-16" target="2cw835uVxtxsyLFWTMSn-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-16" target="2cw835uVxtxsyLFWTMSn-27">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-16" target="2cw835uVxtxsyLFWTMSn-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-16" value="Ze vinden je kut omdat omdat ze denken dat je de situatie niet serieus neem" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-16" value="Ze vinden je kut omdat omdat ze denken dat je de situatie niet serieus neem" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="507.5" y="292.5" width="110" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-17" value="Je overleeft en je word uiteindelijk manager na lange tijd werken" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4DFF17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-17" value="Je overleeft en je word uiteindelijk manager na lange tijd werken" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4DFF17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="387.5" y="335" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-19" value="Je bent held en krijgt medaille" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33FF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-19" value="Je bent held en krijgt medaille" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#33FF00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-26" target="2cw835uVxtxsyLFWTMSn-28">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-26" target="2cw835uVxtxsyLFWTMSn-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-26" value="Landmacht werken&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-26" value="Landmacht werken&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="387.5" y="450" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-27" target="2cw835uVxtxsyLFWTMSn-30">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2cw835uVxtxsyLFWTMSn-27" target="2cw835uVxtxsyLFWTMSn-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-27" value="Luchtmacht" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-27" value="Luchtmacht" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="480" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-28" value="je overleeft want je verstopt jezelf tijdens oorlog" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#22FF00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-28" value="je overleeft want je verstopt jezelf tijdens oorlog" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#22FF00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="334" y="525" width="106" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2cw835uVxtxsyLFWTMSn-30" value="je word neergeschoten in de luchtr en je gaat dood" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0505;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2cw835uVxtxsyLFWTMSn-30" value="je word neergeschoten in de luchtr en je gaat dood" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0505;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="555" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fp_3P25nIhXUevTeCshL-4" target="fp_3P25nIhXUevTeCshL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fp_3P25nIhXUevTeCshL-4" target="fp_3P25nIhXUevTeCshL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fp_3P25nIhXUevTeCshL-4" target="fp_3P25nIhXUevTeCshL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-4" value="Je komt eraan en komt erachter dat er ook oorlog in Frankrijk is...&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-6" value="Je gaat naar Mexico en je lijd een normale leven&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-8" value="Je gaat naar Australie en je word heel successvol&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#08FF41;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-10" value="Je gaat naar Paraguay en word gekidnapped door de kartel en daar blijven werken tot je dood" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="515" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fp_3P25nIhXUevTeCshL-12" target="fp_3P25nIhXUevTeCshL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fp_3P25nIhXUevTeCshL-12" target="fp_3P25nIhXUevTeCshL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-12" value="Het is stil en je word gedwongen om te vechten voor de nazi&#39;s&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="170" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fp_3P25nIhXUevTeCshL-17" target="fp_3P25nIhXUevTeCshL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-17" value="Je gaat Marine&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="757.5" y="260" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fp_3P25nIhXUevTeCshL-19" target="fp_3P25nIhXUevTeCshL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-19" value="Je gaat landmacht&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="925" y="270" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="355" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fp_3P25nIhXUevTeCshL-23" value="Je word neer geknalt en je verdrinkt" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="340" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
