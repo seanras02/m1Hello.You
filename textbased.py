@@ -172,7 +172,7 @@ elif choice == "C":
         print("Je sluit aan bij de marine, maar je boot zonk uiteindelijk en je verdrinkt...")
 
     elif choice == "B":
-        print("De nazi's verliezen dus je besluit om te onderduiken, maar je word uiteindelijk ")
+        print("De nazi's verliezen dus je besluit om te onderduiken, maar je word uiteindelijk opgepakt en krijgt de doodstraf ")
 
     elif choice == "C":
         print("Je word in de lucht neergeschoten en je wilt snel je parachute gebruiken")
